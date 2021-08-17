@@ -3,3 +3,4 @@ Habi t#2 -  have a get-it-done attitude, need to keep your eye on the goal and b
 Habit #3 - keep your code as simple and consistent as possible
 Habit#4 -  have a consistent way to get in the zone (period of time you're not interrupted by aanybody)
 Habit #5 - always be learning, sharpening yourself
+Habit#6 - collaboration
